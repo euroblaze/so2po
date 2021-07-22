@@ -13,3 +13,4 @@ This module creates a consolidated PurchaseOrder by reading SaleOrder-positions 
 Available apps.odoo.com modules
 
 - https://apps.odoo.com/apps/modules/14.0/bi_convert_purchase_from_sales/
+- Several [purchase orders related modules](https://apps.odoo.com/apps/modules/browse?price=Free&search=purchase+order) available.
