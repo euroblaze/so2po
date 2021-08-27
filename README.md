@@ -17,3 +17,11 @@ Online retailers who use a "just in time (JIT) purchasing strategy" can use this
 
 - https://apps.odoo.com/apps/modules/14.0/bi_convert_purchase_from_sales/
 - Several [purchase orders related modules](https://apps.odoo.com/apps/modules/browse?price=Free&search=purchase+order) available.
+
+### What Settings are possible?
+For every product-line on the PO, it is possible to select a vendor and load his respective purchase-price for the product.
+Ensure all buttons, messages, views etc. are multilingual translatable
+### User Experience
+Upon multiple-selection of SOs, show a button on top of Sales -> Orders list view.
+Once PO is successfully created, transfer user automatically to the newly created PO page.
+
